@@ -6,14 +6,16 @@ import SpecialOffers from "./SpecialOffers";
 import CustomerReviews from "./CustomerReviews";
 import Subscribe from "./Subscribe";
 import Footer from "./Footer";
+import Nav from "../components/Nav";
 
 export {
-    Hero,
-    PopularProducts,
-    SuperQuality,
-    Services,
-    SpecialOffers,
-    CustomerReviews,
-    Subscribe,
-    Footer
-}
+  Hero,
+  PopularProducts,
+  SuperQuality,
+  Services,
+  SpecialOffers,
+  CustomerReviews,
+  Subscribe,
+  Footer,
+  Nav,
+};
