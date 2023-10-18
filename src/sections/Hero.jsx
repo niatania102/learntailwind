@@ -3,8 +3,7 @@ import { useState } from "react";
 import { shoes, statistics } from "../constants";
 import { arrowRight } from "../assets/icons";
 import { bigShoe1 } from "../assets/images";
-import Button from "../components/Button";
-import ShoeCard from "../components/ShoeCard";
+import { Button, ShoeCard } from "../components";
 
 const Hero = () => {
   // pass bigShoe1 as the basic currently selected shoe
