@@ -17,6 +17,7 @@ const Button = ({
     >
       {label}
 
+      {/* if we have image then show the image */}
       {iconURL && (
         <img
           src={iconURL}
